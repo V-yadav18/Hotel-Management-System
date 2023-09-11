@@ -14,7 +14,7 @@ This is a simple Hotel Management System implemented in Java. It provides basic 
 - *Order*: Order foods and beverages.
 - *Checkout*: Checkout room after completion of time and services. And so on...
 
-##### Topics Covered
+## Topics Covered
 
 Classes and Objects, Inheritance, File Handling with Objects, ArrayList, implementing
 Interface, User defined exception and Exception handling.
