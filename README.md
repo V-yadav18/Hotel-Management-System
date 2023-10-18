@@ -18,3 +18,10 @@ This is a simple Hotel Management System implemented in Java. It provides basic 
 
 Classes and Objects, Inheritance, File Handling with Objects, ArrayList, implementing
 Interface, User defined exception and Exception handling.
+
+## Installation
+
+1. Clone the repository:
+    ```shell
+    git clone
+https://github.com/yourusername/hotel-management.git       
