@@ -23,5 +23,4 @@ Interface, User defined exception and Exception handling.
 
 1. Clone the repository:
     ```shell
-    git clone
-https://github.com/yourusername/hotel-management.git       
+    git clone https://github.com/yourusername/hotel-management.git       
